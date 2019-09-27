@@ -1,0 +1,14 @@
+{
+  "productos": [
+    {
+      "id": 13,
+      "nombre": "CAFE DECAF",
+      "precio": "31"
+    },
+    {
+      "nombre": "Camarones",
+      "precio": "210",
+      "id": 14
+    }
+  ]
+}
